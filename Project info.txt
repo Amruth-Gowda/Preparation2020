@@ -1,0 +1,11 @@
+PCoreJava :
+- basic java project 
+- Hello world
+- Simple JDBC connectivity
+
+PJavaHibernateConnectivity
+- basic maven projcet
+- dao and models 
+- hibernate.cfg.xml
+- pom.xml
+
