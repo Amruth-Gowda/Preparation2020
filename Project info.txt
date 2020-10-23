@@ -4,8 +4,21 @@ PCoreJava :
 - Simple JDBC connectivity
 
 PJavaHibernateConnectivity
-- basic maven projcet
+- basic maven projcet with db connectivity using hibernate
 - dao and models 
 - hibernate.cfg.xml
 - pom.xml
 
+customer-web-app 
+- dynamic web-app with Spring-mvc-hibernate-rest-api-AOP
+- controllers, services, models, daos with impl classes
+- srping-mvc-hibernate.xml as dispatcher servlet
+- web.xml with necessary configurations
+- with all jars for spring-mvc-hibernate-rest-api
+
+crm
+- Maven web-app with Spring-mvc-hibernate-rest-api-AOP
+- controllers, services, models, daos with impl classes
+- srping-mvc-hibernate.xml as dispatcher servlet
+- web.xml with necessary configurations
+- pom.xml with all required dependencies and configurations
