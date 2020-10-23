@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-this is the basic text file that is created inside the basic branch in local repo
-=======
-this is the sample file that is being edited from the local and pushed to the remote repo
-
->>>>>>> origin
