@@ -22,3 +22,9 @@ crm
 - srping-mvc-hibernate.xml as dispatcher servlet
 - web.xml with necessary configurations
 - pom.xml with all required dependencies and configurations
+
+FirstSpringBootProject
+- maven web-app with rest-api 
+- controller 
+- pom.xml with all required dependencies and configurations 
+- HelloWorld Spring boot application
