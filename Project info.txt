@@ -28,3 +28,12 @@ FirstSpringBootProject
 - controller 
 - pom.xml with all required dependencies and configurations 
 - HelloWorld Spring boot application
+
+Basics
+- Basic Java Project
+- Java Basic examples 
+
+MasterJavaProject 
+- Basic Java Project
+- Examples of Collections 
+- Examples of threads
