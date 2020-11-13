@@ -1,3 +1,11 @@
+Basics
+- Basic Java Project
+- Java basic examples
+	- Streams example
+	- Iterator examples
+	- Lambda expressions examples
+	- functional interface examples
+
 PCoreJava :
 - basic java project 
 - Hello world
@@ -28,10 +36,6 @@ FirstSpringBootProject
 - controller 
 - pom.xml with all required dependencies and configurations 
 - HelloWorld Spring boot application
-
-Basics
-- Basic Java Project
-- Java Basic examples 
 
 MasterJavaProject 
 - Basic Java Project
